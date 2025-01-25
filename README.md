@@ -18,7 +18,7 @@ Step 3: Open 'ChangeName.bat' and give your client a name
 
 Step 4: Run BuildProject.bat
 
-- ### Linux/Mac users
+- ### Linux Users / Mac Users
 
 Step 3: Edit 'build.gradle': give your client a name and an id.
 
