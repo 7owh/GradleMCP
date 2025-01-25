@@ -14,9 +14,7 @@ Step 2: Choose the platform you are on, delete the other folder.
 
 - ### Windows Users
 
-Step 3: Open 'ChangeName.bat' and give your client a name
-
-Step 4: Run BuildProject.bat
+Step 3: Open 'SETUP PROJECT.bat' and follow the instructions in the command prompt
 
 - ### Linux Users / Mac Users
 
@@ -24,10 +22,12 @@ Step 3: Edit 'build.gradle': give your client a name and an id.
 
 Step 4: Open the folder in terminal and type 'chmod +x BuildProject.sh' and hit enter
 
-Step 5: Type in the terminal './BuildProject.sh' and hit enter.
+Step 5: Type into the terminal './BuildProject.sh' and hit enter.
 
 ## After building
 You will be asked 'Would you like to install optifine aswell?' (y/n)
+
+Just press Y or N on your keyboard.
 
 # COMPILE #
 
