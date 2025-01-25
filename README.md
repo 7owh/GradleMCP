@@ -16,9 +16,13 @@ Step 2: Choose the platform you are on, delete the other folder.
 
 Step 3: Open 'SETUP PROJECT.bat' and follow the instructions in the command prompt
 
+ps.: You can change the client name later by opening 'ChangeName.bat'
+
 - ### Linux Users / Mac Users
 
 Step 3: Edit 'build.gradle': give your client a name and an id.
+
+ps.: You can change the client name later by just modifying the file again.
 
 Step 4: Open the folder in terminal and type 'chmod +x BuildProject.sh' and hit enter
 
