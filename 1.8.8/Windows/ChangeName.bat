@@ -27,5 +27,3 @@ set outputFile=output.txt
 :: Optionally, replace the original file with the new one
 move /y %outputFile% %inputFile%
 
-endlocal
-pause
