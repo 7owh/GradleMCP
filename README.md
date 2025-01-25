@@ -3,6 +3,8 @@ Build your own Minecraft Client for 1.8.8 easily. (Gradle 5.2.1 included!)
 
 Should work on Linux, MacOS and Windows!
 
+Forked this because I wanted to make it even easier for everyone to just start coding their clients.
+
 # How to setup #
 
 Step 1: Download the repo.
