@@ -31,15 +31,15 @@ You will be asked 'Would you like to install optifine aswell?' (y/n)
 
 # COMPILE #
 
+- ### Windows Users
+
+Step 1 : Run CompileClient.bat
+
 - ### Linux Users / Mac Users
 
 Step 1: Open your client folder with terminal and type 'chmod +x CompileClient.sh'
 
 Step 2: Type in the terminal './CompileClient.sh'
-
-- ### Windows Users
-
-Step 1 : Run CompileClient.bat
 
 ## After compiling
 There will appear a folder in your project directory named after what you have set in build.gradle
