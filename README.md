@@ -5,7 +5,7 @@ Should work on Linux, MacOS and Windows!
 
 Forked this because I wanted to make it even easier for everyone to just start coding their clients.
 
-# How to setup #
+# SETUP #
 
 Step 1: Download the repo.
 
@@ -29,15 +29,15 @@ Step 5: Type in the terminal './BuildProject.sh' and hit enter.
 ## After building
 You will be asked 'Would you like to install optifine aswell?' (y/n)
 
-# How to compile #
+# COMPILE #
 
-# Linux Users / Mac Users #
+- ### Linux Users / Mac Users
 
 Step 1: Open your client folder with terminal and type 'chmod +x CompileClient.sh'
 
 Step 2: Type in the terminal './CompileClient.sh'
 
-# Windows Users #
+- ### Windows Users
 
 Step 1 : Run CompileClient.bat
 
