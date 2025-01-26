@@ -1,3 +1,4 @@
+![MIT License](https://img.shields.io/badge/License-MIT-4493D4)
 # GradleMCP
 Build your own Minecraft Client for 1.8.8 easily. (Gradle 5.2.1 included!)
 
