@@ -14,7 +14,7 @@ The original repository can be found at [Hippo/GradleMCP](https://github.com/Hip
 
 # SETUP #
 
-![Windows Logo](https://i.imgur.com/3K2Zww1.png) [Click here to watch a tutorial for Windows]().
+![Windows Logo](https://i.imgur.com/3K2Zww1.png) [Click here to watch a tutorial for Windows](https://www.youtube.com/watch?v=XhfhhflmSd8).
 
 Step 1: Download the repo.
 
