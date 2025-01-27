@@ -8,6 +8,8 @@ Should work on Linux, MacOS and Windows!
 
 This is a modification to an already good repository to make it even easier to setup and get into coding right away.
 
+I only simplified the setup process, pre-included Gradle and wrote some simple code on top of what already was there.
+
 The original repository can be found at [Hippo/GradleMCP](https://github.com/Hippo/GradleMCP), MIT License.
 
 # SETUP #
