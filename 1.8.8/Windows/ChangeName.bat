@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-echo What is the Client's name? (for example: 'MyClient v1')
+echo What is the Client's name? (for example: 'MyClient v1', 'Best Client v2')
 SET /P name=^> 
 
 echo '%name%' is the new name, please wait..
