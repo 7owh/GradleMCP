@@ -14,7 +14,7 @@ I only simplified the setup process, pre-included Gradle and wrote some simple c
 
 The original repository can be found at [Hippo/GradleMCP](https://github.com/Hippo/GradleMCP), MIT License.
 
-# SETUP #
+# 🔧 SETUP #
 
 ![Windows Logo](https://i.imgur.com/3K2Zww1.png) [Click here to watch a tutorial for Windows](https://www.youtube.com/watch?v=XhfhhflmSd8).
 
@@ -44,7 +44,7 @@ You will be asked 'Would you like to install optifine aswell?' (y/n)
 
 Just press Y or N on your keyboard.
 
-# COMPILE #
+# 🔨 COMPILE #
 
 - ### ![Windows Logo](https://i.imgur.com/3K2Zww1.png) Windows Users
 
@@ -60,3 +60,11 @@ Step 2: Type in the terminal './CompileClient.sh'
 There will appear a folder in your project directory named after what you have set in build.gradle.
 
 That's the 'version' folder that you should put into %appdata%/.minecraft/versions
+
+## 📫 Contact?
+
+Don't hesitate to reach out, I respect everyone!
+
+![Discord logo](https://github.com/user-attachments/assets/1eb8e84b-de53-406a-94fa-37f94dc82847) Let's talk on Discord: [@itzkxhu](https://discord.com/)
+
+![YouTube logo](https://github.com/user-attachments/assets/dc8bc4f8-e613-4d04-922d-dce2def52e02) I have a YouTube channel: [@itzkxhu](https://www.youtube.com/@itzkxhu)
