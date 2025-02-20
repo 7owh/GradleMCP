@@ -12,6 +12,8 @@ This is a modification to an already good repository to make it even easier to s
 
 I only simplified the setup process, pre-included Gradle and wrote some simple code on top of what already was there.
 
+This means that the repository's license is MIT and not Unlicense which I always choose. 
+
 The original repository can be found at [Hippo/GradleMCP](https://github.com/Hippo/GradleMCP), MIT License.
 
 # 🔧 SETUP #
