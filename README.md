@@ -62,11 +62,3 @@ Step 2: Type in the terminal './CompileClient.sh'
 There will appear a folder in your project directory named after what you have set in build.gradle.
 
 That's the 'version' folder that you should put into %appdata%/.minecraft/versions
-
-## 📫 Contact?
-
-Don't hesitate to reach out, I respect everyone!
-
-![Discord logo](https://i.imgur.com/BvvyqHK.png) Let's talk on Discord: [@sevenow](https://discord.com/)
-
-![YouTube logo](https://i.imgur.com/OOAQDD5.png) I have a YouTube channel: [@sevenowh](https://m.youtube.com/@sevenowh)
