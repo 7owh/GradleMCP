@@ -4,8 +4,6 @@ Build your own Minecraft Client for 1.8.8 easily. (Gradle 5.2.1 included!)
 
 Should work on Linux, MacOS and Windows!
 
-(there are plans to port the new easier-to-use .bat files to .sh) 
-
 ## This is a fork!
 
 This is a modification to an already good repository to make it even easier to setup and get into coding right away.
